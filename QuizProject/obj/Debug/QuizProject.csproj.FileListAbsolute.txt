@@ -1,0 +1,12 @@
+C:\Users\iarda\source\repos\QuizProject\bin\Debug\QuizProject.exe.config
+C:\Users\iarda\source\repos\QuizProject\bin\Debug\QuizProject.exe
+C:\Users\iarda\source\repos\QuizProject\bin\Debug\QuizProject.pdb
+C:\Users\iarda\source\repos\QuizProject\obj\Debug\QuizProject.csproj.AssemblyReference.cache
+C:\Users\iarda\source\repos\QuizProject\obj\Debug\QuizProject.Form1.resources
+C:\Users\iarda\source\repos\QuizProject\obj\Debug\QuizProject.Properties.Resources.resources
+C:\Users\iarda\source\repos\QuizProject\obj\Debug\QuizProject.csproj.GenerateResource.cache
+C:\Users\iarda\source\repos\QuizProject\obj\Debug\QuizProject.csproj.CoreCompileInputs.cache
+C:\Users\iarda\source\repos\QuizProject\obj\Debug\QuizProject.exe
+C:\Users\iarda\source\repos\QuizProject\obj\Debug\QuizProject.pdb
+C:\Users\iarda\source\repos\QuizProject\obj\Debug\QuizProject.FormStart.resources
+C:\Users\iarda\source\repos\QuizProject\obj\Debug\QuizProject.FormEnd.resources
